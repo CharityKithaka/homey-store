@@ -52,8 +52,18 @@ const Login = () => {
 gap-y-4"
       >
         <h4 className="text-center text-3xl font-bold">Login</h4>
-        <FormInput type="email" label="email" name="identifier" />
-        <FormInput type="password" label="password" name="password" />
+        <FormInput
+          type="email"
+          label="email"
+          name="identifier"
+          defaultValue="test@example.com"
+        />
+        <FormInput
+          type="password"
+          label="password"
+          name="password"
+          defaultValue="secret"
+        />
         <div className="mt-4">
           <SubmitBtn text="login" />
         </div>

@@ -18,7 +18,7 @@ Here's the live site hosted on netlify :
 Clone the repo
 
 ```
-
+https://github.com/CharityKithaka/homey-store.git
 ```
 
 Install dependencies:

@@ -11,7 +11,7 @@
 
 Homey is an e-commerce store built using JavaScript, React, React Router 6.4+, React Query, Redux Toolkit, DaisyUI and Axios.
 
-Here's the live site hosted on netlify :
+Here's the live site hosted on Netlify: ![Homey Store](https://homey-store.netlify.app/)
 
 ## Setup
 

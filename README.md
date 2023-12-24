@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Simple" src="./src/assets/img.png" width="60" />
+    <img alt="Simple" src="./src/assets/img.webp" width="60" />
   </a>
 </p>
 <h1 align="center">Homey Store</h1>

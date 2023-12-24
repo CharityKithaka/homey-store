@@ -59,7 +59,7 @@ const NavBar = () => {
       <div className="navbar align-element">
         <div className="navbar-start">
           <NavLink to="/" className="hidden lg:flex btn item-center">
-            <img src="src/assets/img.png" alt="img" className="w-15 h-12" />
+            <img src="src/assets/img.webp" alt="img" className="w-15 h-12" />
           </NavLink>
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">
